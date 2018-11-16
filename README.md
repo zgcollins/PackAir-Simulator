@@ -17,6 +17,7 @@
 # -------- Information on using the simulator --------
 #
 # To use the program, run the file SecurityCheckpointViewer.java from the command line.
+# The file is located in the src/ui/ folder.
 # The GUI will appear. Enter number of checkpoints (3-17), number of passengers for the 
 # simulation, and the % distribution of the different types of passengers. The output will 
 # be the average wait time for passengers and the average time spent processing in security.
